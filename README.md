@@ -1,4 +1,4 @@
-##  Hey there, I'm Gali 🌸
+# Hey there, I'm Gali 🌸
 
 <img src=https://github.com/galikechichian/galikechichian/blob/main/giphy.gif width=80% height=350>
 
