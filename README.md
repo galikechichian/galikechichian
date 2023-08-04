@@ -1,7 +1,8 @@
 ### Hi there 👋  
 #### I'm Gali
 
-![](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
+
+<img src=https://github.com/galikechichian/galikechichian/blob/main/giphy.gif width=70% height=350>
 
 I'm a 3rd year Computer Science student at McGill University. Also an artist, a gymnast, sometimes a baker, occasionally a musician...And always looking to perfect my knife skills! Sometimes I code, sometimes I don't.
 
