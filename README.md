@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
 #### I'm Gali
 
-<div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
-
-![Homework GIF](https://giphy.com/gifs/homework-dNgK7Ws7y176U)
+![](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 
 I'm a 3rd year Computer Science student at McGill University. Also an artist, a gymnast, sometimes a baker, occasionally a musician...And always looking to perfect my knife skills! Sometimes I code, sometimes I don't.
 
