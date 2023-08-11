@@ -8,7 +8,7 @@ Sometimes I code, sometimes I don't.
 
 ---
 ### 🏗 I'm currently working on...
-- [Savify](https://github.com/galikechichian/savify) 🎶🟢
+- Leap Up 🆙
 - learning ***React*** and ***Typescript***   🌐
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) 🤓
 - NOT rewatching Breaking Bad  👨🏻‍🔬
