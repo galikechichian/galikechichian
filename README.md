@@ -8,7 +8,8 @@ Sometimes I code, sometimes I don't.
 
 ---
 ### 🏗 I'm currently working on...
-- Leap Up 🆙
+- [Leap Up](https://github.com/GeorgioFe/leap-up) 🆙
+- [Seventh Scent](https://github.com/galikechichian/seventh-scent) 🍬
 - learning ***React*** and ***Typescript***   🌐
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) 🤓
 - NOT rewatching Breaking Bad  👨🏻‍🔬
