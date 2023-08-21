@@ -3,7 +3,7 @@
 <img src=https://github.com/galikechichian/galikechichian/blob/main/giphy.gif width=90% height=350>
 
 ### About me 📚👩‍🎨🤸‍♀️👩‍🍳🎹🌷
-I'm a 3rd year Computer Science student at McGill University. Also an artist, a gymnast, sometimes a baker, occasionally a musician...And always looking to perfect my knife skills! I'm mostly curious about ***Full Stack Development*** and ***UI/UX Design***. 
+I'm a 3rd year Computer Science student at McGill University. Also an artist, a gymnast, sometimes a baker, occasionally a musician...And always looking to perfect my knife skills! I'm mostly curious about ***Frontend Development*** and ***UI/UX Design***. 
 Sometimes I code, sometimes I don't.
 
 ---
